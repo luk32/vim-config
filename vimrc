@@ -9,6 +9,9 @@ filetype plugin indent on
 
 "Python section
 
+  "autopep8 - change allowed line len to 120 characters
+  let g:autopep8_max_line_length=119
+
   "flake8
   autocmd BufWritePost *.py call Flake8()
 
