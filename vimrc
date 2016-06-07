@@ -6,3 +6,11 @@ filetype plugin indent on
   syntax enable
   set background=dark
   colorscheme solarized
+
+"Python section
+
+  "flake8
+  autocmd BufWritePost *.py call Flake8()
+
+  let g:flake8_show_in_gutter=1
+  let g:flake8_show_in_file=1

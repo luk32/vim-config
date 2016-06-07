@@ -7,3 +7,6 @@
 [submodule "bundle/better-whitespace"]
 	path = bundle/better-whitespace
 	url = git://github.com/ntpeters/vim-better-whitespace.git
+[submodule "bundle/flake8"]
+	path = bundle/flake8
+	url = https://github.com/nvie/vim-flake8
