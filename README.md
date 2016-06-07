@@ -9,7 +9,6 @@ The most basic installation is to make symlinks from home directory to the proje
 ```
 ln -s ~/.vim/vimrc ~/.vim.rc
 ln -s ~/.vim/gvimrc ~/.gvim.rc
-
 ```
 
 One could also source them in other way, but be ware of any conflicts.
