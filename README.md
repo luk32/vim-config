@@ -6,10 +6,14 @@ My `.vim` directory with plugins I use and their configuration. It uses `pathoge
 
 #### Dependencies.
 
-One has to have installed `python-jedi` module to support auto-completion:
+One has to have installed following modules
+
+  * `python-jedi` to support auto-completion
+  * `python-flake8` for pep8 compliance checks
 
 ```
 aptitude install python-jedi
+aptitude install python-flake8 
 ```
 
 #### Repository.
