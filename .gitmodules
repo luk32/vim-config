@@ -12,10 +12,10 @@
 	url = https://github.com/tell-k/vim-autopep8.git
 [submodule "bundle/colors-solarized"]
 	path = bundle/colors-solarized
-	url = git://github.com/altercation/vim-colors-solarized.git
+	url = https://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/better-whitespace"]
 	path = bundle/better-whitespace
-	url = git://github.com/ntpeters/vim-better-whitespace.git
+	url = https://github.com/ntpeters/vim-better-whitespace.git
 [submodule "bundle/flake8"]
 	path = bundle/flake8
 	url = https://github.com/nvie/vim-flake8
